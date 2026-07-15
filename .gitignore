@@ -1,0 +1,15 @@
+# Dependencies and generated output
+node_modules/
+coverage/
+
+# Local secrets and configuration
+.env
+.env.*
+!.env.example
+configs/main.json
+
+# Logs and operating-system files
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db

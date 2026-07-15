@@ -1,0 +1,7 @@
+.env
+.env.*
+!.env.example
+configs/
+coverage/
+node_modules/
+test/

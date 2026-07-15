@@ -1,0 +1,4 @@
+node_modules/
+coverage/
+LICENSE.txt
+package-lock.json
